@@ -121,12 +121,12 @@ Name of input field   | How to use them
 `PROFILE_LINK`        | URL link to candidate profile or portfolio (e.g. LinkedIn or GitHub, etc.) to provide convenience for you to refer to their profile later on. <br/>:exclamation: *CANdidates does not check that the URL address exists, only that the format is correct.* <br/>:bulb:*If you entered an erroneous URL address, use the* [edit can](#43-editing-a-candidate-edit-can) *feature to correct it.*
 `JOB_TYPE`            | Job type tags for candidates so that it will be easier to find candidates applying for similar jobs. For example, you can tag them according to the job industry.<br/>:memo: *Job type should be one word, made up of up to 20 alphanumerical values with no spaces.*
 `JOB_TITLE`           | Title of a job position.<br/>:memo: *Job titles should contain only alphanumerical values or spaces.*
-`COMPANY_NAME`        | Name of the company for the job listing you are adding or editing.
 
 <div style="page-break-after: always;"></div>
 
 Name of input field   | How to use them
 ----------------------|------------------------------------
+`COMPANY_NAME`        | Name of the company for the job listing you are adding or editing.
 `VACANCY`             | Vacancy of a job listing i.e. Number of available slots open for hiring.<br/>:memo: *This field accepts only whole numbers from 0 to 99.*
 `PRIORITY`            | Priority of a job listing. Job listings may be of different urgency levels and this field is used to indicate the urgency.<br/>:memo: *This field only accepts 3 specific values: low, moderate or high.*
 `JOB_DESCRIPTION`     | Job description tags for job listings to specify additional descriptions. For example, you can specify requirements of the job such as age or skill level.<br/>:memo: *Job description should be one word, made up of up to 20 alphanumerical values with no spaces.*
@@ -244,7 +244,7 @@ Step 1. Type `add can n/John Doe p/98765432 e/johnd@example.com a/John street, b
 Step 2. The *CANdidates* application will show the following message in the *result display*.
 >New person added: John Doe Phone: 98765432 Email: johnd@example.com Experience: 1.0 years Date of Application: 16-10-20 Address: John street, block 123, #01-01 Link:  Expected Salary:  Blacklisted: false Tags: [DogGroomer].
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will show the updated list of candidates with the newly added candidate in the *main list*.
 
