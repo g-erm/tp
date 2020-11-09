@@ -926,7 +926,7 @@ Step 3. The help window will appear as a pop-up and you may click on the "copy U
 
 ![help message 3](images/helpMessage2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 6.2 Exiting the program : `exit`
 
