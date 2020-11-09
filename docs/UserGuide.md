@@ -618,6 +618,8 @@ To accurately reflect the latest changes of jobs in the application, you can ref
 </div>
 <br>
 
+<div style="page-break-after: always;"></div>
+
 ### 5.3 Editing a job: `edit job`
 
 If you would like to edit the details of a particular job, you can use the command below.
@@ -648,6 +650,8 @@ See the second example below for a demonstration.*
 :black_nib: To edit the 3rd job and clear existing job descriptions, 
 
     edit job 3 t/
+
+<div style="page-break-after: always;"></div>
 
 **Step by Step:**
 
