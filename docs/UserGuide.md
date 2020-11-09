@@ -485,6 +485,8 @@ Want to view all the information of a particular candidate? *CANdidates* provide
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Examples:**
 
 :black_nib: To view the candidate at index _1_,
@@ -541,7 +543,7 @@ Step 1. Type `clear can` in the *command box* and press *Enter*.
 Step 2. The following message will be shown in the *result display*
 >Candidate list has been cleared!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will show the updated candidate list which is empty.
 
