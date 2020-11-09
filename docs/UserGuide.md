@@ -583,7 +583,9 @@ If you are informed of a job opening and you would like to add it in *CANdidates
 
     add job n/Delivery Man c/FedEx e/fedex@example.com a/Joo Koon p/93333222 
     pr/high t/delivery t/west v/10
-    
+
+<div style="page-break-after: always;"></div>
+
 **Step by Step:**
 
 Step 1. Type `add job n/Waiter c/Amelia’s Eating House p/98765432 e/ameliatjy@example.com a/Amelia Street, Block 123, #01-01 pr/low t/MultipleLocations v/1` in the *command box* and press *Enter*.
@@ -595,7 +597,7 @@ Step 1. Type `add job n/Waiter c/Amelia’s Eating House p/98765432 e/ameliatjy@
 Step 2. The *CANdidates* application will show the following message in the *result display*.
 >New job added: Waiter Company: Amelia’s Eating House Phone: 98765432 Email: ameliatjy@example.com Address: Amelia Street, Block 123, #01-01 Priority: low Vacancy: 1 Tags: [MultipleLocations]
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will show the updated job listings with the newly added job in the *main list*.
 
