@@ -543,7 +543,7 @@ Step 1. Type `clear can` in the *command box* and press *Enter*.
 Step 2. The following message will be shown in the *result display*
 >Candidate list has been cleared!
 
-<div style="page-break-after: always;"></div>
+<br>
 
 Step 3. The application will show the updated candidate list which is empty.
 
