@@ -696,6 +696,8 @@ simply by inserting keywords for the field(s) you are looking for!
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Examples:**
 
 :black_nib: To find jobs with email containing “_@gmail.com_” and priority level _high_,
@@ -740,6 +742,8 @@ Have too many job listings and need a way to organise them? You can get *CANdida
 :memo: *The* `ORDER` *can be either* `asc` *or* `desc` *depending on whether you wish the sorting to be done in an ascending or descending manner.*
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Examples:**
 
@@ -807,7 +811,7 @@ Step 2. The result of the command in the *result display* will depend on the spe
 The message that will be shown in the *result display* is
 >Deleted Job: {Job Title} Company: {Company Name} Phone: {Phone} Email: {Email} Address: {Address} Priority: {Priority} Vacancy: {Vacancy} Tags: {Tags}
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will show the updated job list without the deleted job.
 
