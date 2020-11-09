@@ -327,6 +327,8 @@ the field you are interested in, along with the keyword you are looking for!
 
 **Format:** `find can [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [exp/YEARS_OF_EXPERIENCE] [doa/DATE_OF_APPLICATION] [a/ADDRESS] [sal/EXPECTED_SALARY] [bl/IS_BLACKLISTED] [link/PROFILE_LINK] [t/JOB_TYPE]…`
 
+<div style="page-break-after: always;"></div>
+
 <div markdown="span" class="alert alert-primary">
 
 :memo: *At least one of the optional fields must be provided.*
