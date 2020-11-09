@@ -35,10 +35,6 @@ you may be happy to know that a [glossary](#9-glossary) is provided at the end o
 * [Tan Yu Ting, Germaine](team/g-erm.md)
 * [Toh Hong Xian](team/raythx98.md)
 
-<br>
-
---------------------------------------------------------------------------------------------------------------------
-
 <div style="page-break-after: always;"></div>
 
 ## **2. Preface**
