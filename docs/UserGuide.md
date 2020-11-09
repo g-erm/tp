@@ -62,6 +62,7 @@ These are the 9 sections and a short explanation of what they are for:
   
 ### 2.2 Understanding Symbols
 This section explains all the symbols and fonts used in this document.
+<div style="page-break-after: always;"></div>
 
 Symbols/Font   | Explanation
 ---------------|------------------------------------
@@ -108,6 +109,10 @@ Name of input field   | How to use them
 `PHONE_NUMBER`        | Contact number of candidate or job listing being added or edited.
 `EMAIL`               | Contact email address of candidate or job listing being added or edited.<br/>:exclamation: *CANdidates does not check that the email exists, only that the format is correct.* <br/>:bulb:*If you entered an erroneous email address, use the* [edit can](#43-editing-a-candidate-edit-can) *or* [edit job](#53-editing-a-job-edit-job) *feature to correct it.*
 `ADDRESS`             | Residential address of a candidate or work address of a job listing.
+<div style="page-break-after: always;"></div>
+
+Name of input field   | How to use them
+----------------------|------------------------------------
 `YEARS_OF_EXPERIENCE` | Years of experience of the candidate in the relevant job he/she applied for.<br/>:memo: *This field accepts up to 2 decimal points excluding trailing zeroes.*
 `DATE_OF_APPLICATION` | Date of application submitted by candidate.<br/>:memo: *Date should be in the format of DD-MM-YY*<br/>:bulb: *Day and Month can be 1 or 2 digits as long as they are valid.*<br/>:black_nib: *If the date of application is 31 September 2021, input* `doa/31-9-21`
 `EXPECTED_SALARY`     | Expected salary of a candidate in dollars.<br/>:memo: *This field accepts only whole numbers.*<br/>:bulb: *You can round up the figure to the next whole number if needed.*
@@ -116,12 +121,17 @@ Name of input field   | How to use them
 `JOB_TYPE`            | Job type tags for candidates so that it will be easier to find candidates applying for similar jobs. For example, you can tag them according to the job industry.<br/>:memo: *Job type should be one word, made up of up to 20 alphanumerical values with no spaces.*
 `JOB_TITLE`           | Title of a job position.<br/>:memo: *Job titles should contain only alphanumerical values or spaces.*
 `COMPANY_NAME`        | Name of the company for the job listing you are adding or editing.
+<div style="page-break-after: always;"></div>
+
+Name of input field   | How to use them
+----------------------|------------------------------------
 `VACANCY`             | Vacancy of a job listing i.e. Number of available slots open for hiring.<br/>:memo: *This field accepts only whole numbers from 0 to 99.*
 `PRIORITY`            | Priority of a job listing. Job listings may be of different urgency levels and this field is used to indicate the urgency.<br/>:memo: *This field only accepts 3 specific values: low, moderate or high.*
 `JOB_DESCRIPTION`     | Job description tags for job listings to specify additional descriptions. For example, you can specify requirements of the job such as age or skill level.<br/>:memo: *Job description should be one word, made up of up to 20 alphanumerical values with no spaces.*
 `FIELD_TO_SORT`       | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the field that the candidate or job list is sorted by.<br/>:memo: *This field only accepts specific values described in the [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) subsections.*
 `ORDER`               | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the sort order.<br/>:memo: *This field only accepts 2 specific values: asc or desc.*
 `INDEX`               | Index number of the candidate or job displayed in the list. <br/>:memo: *The index must be a positive integer 1, 2, 3, …​*
+<div style="page-break-after: always;"></div>
 
 ### 2.5 Understanding Command Format
 
