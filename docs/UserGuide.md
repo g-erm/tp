@@ -995,6 +995,8 @@ This allows you to do side by side comparison of a job listing to candidates.*
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 **Step by Step:**
 
 Step 1. While on the candidates tab, type `find job t/Cleaner` in the *command box* and press *Enter*.
@@ -1006,7 +1008,7 @@ Step 1. While on the candidates tab, type `find job t/Cleaner` in the *command b
 Step 2. The *CANdidates* application will show the following message in the *result display* 
 >{Number of jobs found} jobs listed!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will automatically direct you to the "Jobs" tab and display jobs with all matching fields in the *main list*.
 
@@ -1021,6 +1023,8 @@ All data is saved in the hard disk automatically after any command that changes 
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **7. FAQ**
 
@@ -1049,6 +1053,8 @@ All data is saved in the hard disk automatically after any command that changes 
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **8. Command Summary**
 
