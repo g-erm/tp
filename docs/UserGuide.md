@@ -264,6 +264,8 @@ To accurately reflect the latest changes of candidates in the application, you c
 </div>
 <br>
 
+<div style="page-break-after: always;"></div>
+
 ### 4.3 Editing a candidate: `edit can`
 
 If you would like to edit the details of a particular candidate, you can use the command below.
@@ -292,6 +294,8 @@ This works for the job type, address, expected salary and profile link fields. S
 :black_nib: To edit the 2nd candidate and clear existing job types, address, expected salary and profile link,
 
     edit can 2 t/ a/ sal/ link/ 
+
+<div style="page-break-after: always;"></div>
     
 **Step by Step:**
 
