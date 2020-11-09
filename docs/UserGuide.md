@@ -109,6 +109,7 @@ Name of input field   | How to use them
 `PHONE_NUMBER`        | Contact number of candidate or job listing being added or edited.
 `EMAIL`               | Contact email address of candidate or job listing being added or edited.<br/>:exclamation: *CANdidates does not check that the email exists, only that the format is correct.* <br/>:bulb:*If you entered an erroneous email address, use the* [edit can](#43-editing-a-candidate-edit-can) *or* [edit job](#53-editing-a-job-edit-job) *feature to correct it.*
 `ADDRESS`             | Residential address of a candidate or work address of a job listing.
+
 <div style="page-break-after: always;"></div>
 
 Name of input field   | How to use them
@@ -121,6 +122,7 @@ Name of input field   | How to use them
 `JOB_TYPE`            | Job type tags for candidates so that it will be easier to find candidates applying for similar jobs. For example, you can tag them according to the job industry.<br/>:memo: *Job type should be one word, made up of up to 20 alphanumerical values with no spaces.*
 `JOB_TITLE`           | Title of a job position.<br/>:memo: *Job titles should contain only alphanumerical values or spaces.*
 `COMPANY_NAME`        | Name of the company for the job listing you are adding or editing.
+
 <div style="page-break-after: always;"></div>
 
 Name of input field   | How to use them
@@ -131,6 +133,7 @@ Name of input field   | How to use them
 `FIELD_TO_SORT`       | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the field that the candidate or job list is sorted by.<br/>:memo: *This field only accepts specific values described in the [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) subsections.*
 `ORDER`               | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the sort order.<br/>:memo: *This field only accepts 2 specific values: asc or desc.*
 `INDEX`               | Index number of the candidate or job displayed in the list. <br/>:memo: *The index must be a positive integer 1, 2, 3, …​*
+
 <div style="page-break-after: always;"></div>
 
 ### 2.5 Understanding Command Format
