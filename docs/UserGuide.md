@@ -1069,6 +1069,11 @@ Action | Candidate Format | Job Format
 **Sort** | `sort can type/FIELD_TO_SORT order/ORDER` | `sort job type/FIELD_TO_SORT order/ORDER`
 **Delete** | `delete can INDEX` | `delete job INDEX`
 **View** | `view can INDEX` | `view job INDEX`
+
+<div style="page-break-after: always;"></div>
+
+Action | Candidate Format | Job Format
+--------|------------------|------------------
 **Clear** | `clear can` | `clear job`
 **Help** | `help` | `help`
 **Exit** | `exit` | `exit`
@@ -1076,6 +1081,8 @@ Action | Candidate Format | Job Format
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **9. Glossary**
 
