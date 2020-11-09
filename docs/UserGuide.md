@@ -39,6 +39,8 @@ you may be happy to know that a [glossary](#9-glossary) is provided at the end o
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## **2. Preface**
 For a smoother start to your usage of *CANdidates*, read this section to find out how this document is structured, 
 how to navigate the document and what all the symbols, special fonts and command formats mean.
