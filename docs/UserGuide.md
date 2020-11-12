@@ -10,6 +10,8 @@ title: User Guide
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## **1. Introduction**
 Hello there! If you are reading this, you must be curious about *CANdidates*. 
 
@@ -39,6 +41,8 @@ you may be happy to know that a [glossary](#9-glossary) is provided at the end o
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## **2. Preface**
 For a smoother start to your usage of *CANdidates*, read this section to find out how this document is structured, 
 how to navigate the document and what all the symbols, special fonts and command formats mean.
@@ -59,10 +63,10 @@ These are the 9 sections and a short explanation of what they are for:
 [8. Command Summary](#8-command-summary)                    | A table that summarises the commands and their respective formats. This is convenient as a quick reference for commands.
 [9. Glossary](#9-glossary)                                  | An explanation of certain specialised terms used in this document.
 
-  
+<div style="page-break-after: always;"></div>
+
 ### 2.2 Understanding Symbols
 This section explains all the symbols and fonts used in this document.
-<div style="page-break-after: always;"></div>
 
 Symbols/Font   | Explanation
 ---------------|------------------------------------
@@ -86,9 +90,10 @@ You may refer back to this section whenever you need help understanding the GUI 
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ### 2.4 Understanding Input Fields
-What are input fields? Input fields are fields that you specify in your commands to tell *CANdidates* exactly what you wish to do, such as the
+To kickstart this subsection, let us understand what exactly are input fields? Input fields are fields that you specify in your commands to tell *CANdidates* exactly what you wish to do, such as the
 information to store. Most input fields have specific requirements that have to be fulfilled or *CANdidates* will not be able to 
 understand you! 
  
@@ -101,6 +106,8 @@ better when you read about the commands in the later sections. Try taking a quic
 in [Section 4. Features for Candidates](#4-features-for-candidates)  or [Section 5. Features for Jobs](#5-features-for-jobs)!
 
 You may refer to this table whenever you need help understanding the input fields.
+
+<div style="page-break-after: always;"></div>
 
 Name of input field   | How to use them
 ----------------------|------------------------------------
@@ -122,6 +129,8 @@ Name of input field   | How to use them
 `FIELD_TO_SORT`       | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the field that the candidate or job list is sorted by.
 `ORDER`               | Input field that is exclusive for [sort can](#45-sorting-all-candidates-sort-can) and [sort job](#55-sorting-all-jobs-sort-job) commands, to specify the sort order.<br/>:memo: *You can indicate it as ascending or descending!*
 `INDEX`               | Index number of the candidate or job displayed in the list.
+
+<div style="page-break-after: always;"></div>
 
 ### 2.5 Understanding Command Format
 
@@ -147,6 +156,8 @@ This will help you to understand *CANdidates*' features better!
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **3. Quick Start**
 Can’t wait to start using *CANdidates*? Us too! Let us guide you through the starting up process, so that you can proceed on to use the application for your own needs!
@@ -183,6 +194,8 @@ Can’t wait to start using *CANdidates*? Us too! Let us guide you through the s
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **4. Features for Candidates**
 This section provides you with features to handle all information of candidates for your utmost convenience!
@@ -232,11 +245,11 @@ Step 3. The new candidate will now appear in the *main list*!
 
 ![Add Candidate 2](images/addCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.2 Listing all candidates: `list can`
 
-If you would like to see the latest change to candidates in the application, you can refresh the list of candidates using this feature!
+If you would like to see the latest changes to candidates in the application, you can refresh the list of candidates using this feature!
 
 **Format:** `list can`
 
@@ -275,7 +288,7 @@ Step 1. Simply type `edit can 1 p/91234567 e/johndoe@example.com bl/true` in the
 
 ![Edit Can Step 1](images/editCan1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The *result display* will show:
 >Candidate edited!
@@ -286,7 +299,7 @@ Step 3. Now the details are updated! Click on the candidate to view the candidat
 
 ![Edit Can Step 2](images/editCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.4 Finding a candidate: `find can`
 
@@ -294,8 +307,6 @@ Too many candidates with different information? *CANdidates* provide you with a 
 candidates from the long list. All you have to do is tell *CANdidates* the keyword(s) you are looking for!
 
 **Format:** `find can [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [exp/YEARS_OF_EXPERIENCE] [doa/DATE_OF_APPLICATION] [a/ADDRESS] [sal/EXPECTED_SALARY] [bl/IS_BLACKLISTED] [link/PROFILE_LINK] [t/JOB_TYPE]…`
-
-<div style="page-break-after: always;"></div>
 
 <div markdown="span" class="alert alert-primary">
 
@@ -323,18 +334,18 @@ Step 1. Just type `find can n/David t/Teacher` in the *command box* and press *E
 
 ![Find Can Step 1](images/findCan1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The following message will be shown in the *result display*:
 >1 candidate listed!
 
 <br>
 
-Step 3. All candidates with all matching fields in the *main list* will now be displayed!
+Step 3. All candidates with information containing the keywords will now be displayed!
 
 ![Find Can Step 2](images/findCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.5 Sorting all candidates: `sort can`
 
@@ -382,7 +393,7 @@ Step 3. The application will show the sorted candidates list based on the sort c
 
 ![Sort Can Step 2](images/sortCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.6 Deleting a candidate: `delete can`
 
@@ -418,13 +429,13 @@ Step 1. Type `delete can 1` in the *command box* and press *Enter*.
 Step 2. The message that will be shown in the *result display* is
 >Deleted candidate!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will show the updated candidates list without the deleted candidate!
 
 ![Delete Can Step 2](images/deleteCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.7 Viewing a candidate: `view can`
 
@@ -453,13 +464,13 @@ Step 1. Type `view can 1` in the *command box* and press *Enter*.
 Step 2. The *CANdidates* application will show the following message in the *result display* 
 >Displaying candidate!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. All the information of the specified candidate would be displayed on the *display panel*.
 
 ![View Can Step 2](images/viewCan2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 4.8 Clearing all candidate entries: `clear can`
 
@@ -487,13 +498,13 @@ Step 1. Type `clear can` in the *command box* and press *Enter*.
 Step 2. The following message will be shown in the *result display*
 >Candidate list has been cleared!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will now show an empty list!
 
 ![Clear Can Step 2](images/clearCan2.png)
     
-<br>
+<div style="page-break-after: always;"></div>
 
 ## **5. Features for Jobs**
 This section provides you with features to handle all information of job listings for your utmost convenience!
@@ -526,6 +537,8 @@ Informed of a job opening and you would like to add it in *CANdidates*? You can 
     add job n/Delivery Man c/FedEx e/fedex@example.com a/Joo Koon p/93333222 
     pr/high t/delivery t/west v/10
 
+<div style="page-break-after: always;"></div>
+
 **Step by Step:**
 
 Step 1. Type `add job n/Waiter c/Amelia’s Eating House p/98765432 e/ameliatjy@example.com a/Amelia Street, Block 123, #01-01 pr/low t/MultipleLocations v/1` in the *command box* and press *Enter*.
@@ -541,12 +554,11 @@ Step 3. The application will now show the newly added job in the *main list*!
 
 ![Add Job 2](images/addJob2.png)
 
-<br>
-
+<div style="page-break-after: always;"></div>
 
 ### 5.2 Listing all jobs: `list job`
 
-If you would like to see the latest change to jobs in the application, you can refresh the job listings using the format below!
+If you would like to see the latest changes to jobs in the application, you can refresh the job listings using the format below!
 
 **Format:** `list job`
 
@@ -555,8 +567,6 @@ If you would like to see the latest change to jobs in the application, you can r
 :bulb: *This command can be used after a* [`find job`](#54-finding-a-job-find-job) *command to show the full list of job listings again.*
 </div>
 <br>
-
-<div style="page-break-after: always;"></div>
 
 ### 5.3 Editing a job: `edit job`
 
@@ -581,6 +591,8 @@ Made a mistake while adding a job? Edit the details of the job using the command
 
     edit job 3 p/94256789
 
+<div style="page-break-after: always;"></div>
+
 **Step by Step:**
 
 Step 1. Type `edit job 1 c/Dog Cafe p/82827731 v/3 pr/high` in the *command box* and press *Enter*.
@@ -598,7 +610,7 @@ Step 3. The application will show the updated list of jobs with the edited job. 
 
 ![Edit Job Step 2](images/editJob2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 5.4 Finding a job: `find job`
 
@@ -632,18 +644,18 @@ Step 1. Type `find job v/1` in the *command box* and press *Enter*.
 
 ![Find Job Step 1](images/findJob1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The *CANdidates* application will show the following message in the *result display* 
 >3 jobs listed!
 
 <br>
 
-Step 3. The application will display jobs with all matching fields in the *main list*!
+Step 3. All jobs with information containing the keywords will now be displayed!
 
 ![Find Job Step 2](images/findJob2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 5.5 Sorting all jobs: `sort job`
 
@@ -675,7 +687,7 @@ Step 1. First, type `sort job type/pr order/ascending` in the *command box* and 
 
 ![Sort Job Step 1](images/sortJob1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The *CANdidates* application will show the following message in the *result display* 
 >Successfully sorted jobs by priority in ascending order.
@@ -686,7 +698,7 @@ Step 3. The application will now show the sorted job list based on the sort cond
 
 ![Sort Job Step 2](images/sortJob2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 5.6 Deleting a job: `delete job`
 
@@ -718,7 +730,7 @@ Step 1. Type `delete job 1` in the *command box* and press *Enter*.
 
 ![Delete Job Step 1](images/deleteJob1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The *result display* will show the message
 >Job deleted!
@@ -729,7 +741,7 @@ Step 3. The application will now show the updated job list without the deleted j
 
 ![Delete Job Step 2](images/deleteJob2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 5.7 Viewing a job: `view job`
 
@@ -758,13 +770,13 @@ Step 1. Type `view job 1` in the *command box* and press *Enter*.
 Step 2. The *CANdidates* application will show the following message in the *result display*  
 >Displaying job!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. All the information of the specified job would be displayed on the *display panel*.
 
 ![View Job Step 2](images/viewJob2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 5.8 Clearing all job entries: `clear job`
 
@@ -793,13 +805,13 @@ Step 1. Type `clear job` in the *command box* and press *Enter*.
 Step 2. The following message will be shown in the *result display*
 >Job list has been cleared!
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The application will now show an empty job list!
 
 ![Clear Job Step 2](images/clearJob2.png)
     
-<br>
+<div style="page-break-after: always;"></div>
 
 ## **6. Other Features**
 This section explores other general features that *CANdidates* has to offer!
@@ -826,7 +838,7 @@ Step 1. Type `help` in the *command box* and press *Enter*.
 Step 2. The *CANdidates* application will show the following message in the *result display*.
 >Opened help window.
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 3. The help window will appear as a pop-up and you may click on the "copy URL" button. This URL link will direct you to *CANdidates*'s User Guide, which is this document!
 
@@ -843,7 +855,7 @@ You may also simply close the window manually.
 
 **Format:** `exit`
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 6.3 Detecting duplicate entries
 
@@ -881,7 +893,7 @@ For duplicate jobs,
      
     add job n/Actor c/Hollywood Pte Ltd p/1234 e/g@mail.com a/Nex v/3
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 6.4 Auto tab switch
 
@@ -906,7 +918,7 @@ Step 3. The application will also automatically direct you to the "Jobs" tab and
 
 ![Tab Switch Step 2](images/tabSwitch2.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ### 6.5 Saving the data
 
@@ -944,6 +956,8 @@ All data is saved in the hard disk automatically after any command that changes 
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## **8. Command Summary**
 
 This handy command summary table provides you with all the possible commands for *CANdidates* at one glance.
@@ -964,6 +978,8 @@ Action | Candidate Format | Job Format
 <br>
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## **9. Glossary**
 
