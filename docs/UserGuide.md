@@ -281,14 +281,16 @@ Realised you made a mistake adding a candidate? No worries because our edit feat
 :black_nib: To edit the 2nd candidate and clear existing job types, address, expected salary and profile link,
 
     edit can 2 t/tailor a/Blk 405 Pasir Ris Drive 6 link/breadpeanutbutter.com
-    
+
+<div style="page-break-after: always;"></div>
+
 **Step by Step:**
 
 Step 1. Simply type `edit can 1 p/91234567 e/johndoe@example.com bl/true` in the *command box* and press *Enter*.
 
 ![Edit Can Step 1](images/editCan1.png)
 
-<div style="page-break-after: always;"></div>
+<br>
 
 Step 2. The *result display* will show:
 >Candidate edited!
@@ -382,7 +384,7 @@ Step 1. Type `sort can type/exp order/ascending` in the *command box* and press 
 
 ![Sort Can Step 1](images/sortCan1.png)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 Step 2. The *CANdidates* application will show the following message in the *result display*.
 >Successfully sorted list of candidates by years of experience in ascending order.
