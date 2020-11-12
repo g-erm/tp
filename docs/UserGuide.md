@@ -31,11 +31,11 @@ you may be happy to know that a [glossary](#9-glossary) is provided at the end o
 ### 1.1 Authors
 *CANdidates* is developed as part of a NUS CS2103T Project by:
 
-* [Amelia Tan Jin Yu](team/ameliatjy.md)
-* [Lee Joon Jie](team/breadpeanutbutter.md)
-* [Nigel Ng Yong Sheng](team/vangoghhh.md)
-* [Tan Yu Ting, Germaine](team/g-erm.md)
-* [Toh Hong Xian](team/raythx98.md)
+* [Amelia Tan Jin Yu](team/ameliatjy.md) (Contributed Sections [4.4](#44-finding-a-candidate-find-can) and [5.4](#54-finding-a-job-find-job))
+* [Lee Joon Jie](team/breadpeanutbutter.md) (Contributed Sections [4.3](#43-editing-a-candidate-edit-can), [4.6](#46-deleting-a-candidate-delete-can), [4.8](#48-clearing-all-candidate-entries-clear-can), [5.3](#53-editing-a-job-edit-job), [5.6](#56-deleting-a-job-delete-job) and [5.8](#58-clearing-all-job-entries-clear-job))
+* [Nigel Ng Yong Sheng](team/vangoghhh.md) (Contributed Sections [4.5](#45-sorting-all-candidates-sort-can), [4.7](#47-viewing-a-candidate-view-can) and [5.7](#57-viewing-a-job-view-job))
+* [Tan Yu Ting, Germaine](team/g-erm.md) (Contributed Section [5.5](#55-sorting-all-jobs-sort-job))
+* [Toh Hong Xian](team/raythx98.md) (Contributed Sections [4.1](#41-adding-a-candidate-add-can), [4.2](#42-listing-all-candidates-list-can), [5.1](#51-adding-a-job-add-job), [5.2](#52-listing-all-jobs-list-job) and [6.1](#61-viewing-help-help))
 
 <br>
 
